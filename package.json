@@ -47,7 +47,7 @@
     "angular2-infinite-scroll": "^0.3.5",
     "core-js": "2.4.1",
     "electron-rebuild": "^1.5.11",
-    "oracledb": "^1.13.1",
+     
     "rxjs": "5.4.2",
     "smartcard": "^1.0.20",
     "zone.js": "0.8.12"
