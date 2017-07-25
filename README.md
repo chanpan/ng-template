@@ -17,7 +17,7 @@ To build for development
     cmd >> cd ezform-desktop
         >> npm start
     cmd >> cd ezform-desktop
-        >> npm run electron:serve
+        >> npm run serve
 
 To build for production
 
