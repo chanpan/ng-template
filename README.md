@@ -4,7 +4,7 @@ install angular/cli
 
 clone folder
 
-    >> git clone https://gitlab.com/nuttaphon/ezform-desktop.git
+    >> git clone https://github.com/chanpan/ng-template.git
 
 install package 
 
